@@ -1,0 +1,16 @@
+requirements
+ - Pillow
+ - ipython
+ - MarkupSafe
+ - certifi
+ - gnureadline
+ - matplotlib
+ - nose
+ - numpy
+ - pyparsing
+ - python-dateutil
+ - pyzmq
+ - scipy
+ - six
+ - Jinja2
+ - tornado

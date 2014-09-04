@@ -1,0 +1,4 @@
+.vs.env
+quickactivate
+*/.ipynb_checkpoints/*
+*.swp

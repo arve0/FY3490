@@ -6,7 +6,7 @@ Autumn 2014 I am doing image processing on pictures from a Leica SP8 microscope.
 - Python
 
 ## Libraries ##
--Matplotlib
--Pillow
--Numpy
--Scipy
+- Matplotlib
+- Pillow
+- Numpy
+- Scipy

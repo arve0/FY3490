@@ -2,3 +2,4 @@
 quickactivate
 */.ipynb_checkpoints/*
 *.swp
+*.pyc

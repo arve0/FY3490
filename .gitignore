@@ -2,3 +2,5 @@
 quickactivate
 **/.ipynb_checkpoints/*
 *.swp
+_tifffile.so
+*.pyc

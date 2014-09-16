@@ -1,0 +1,8 @@
+function f()
+    % imfinfo show images in file - here we want image nr two (of three)
+    image = imread('sample.tif', 'Index', 2);
+    %image(100:110,100:110)
+    mask = [1,1,1; 1,1,1; 1,1,1]
+    image = imfilter(image, mask, 'c
+    imshow(image)
+end

@@ -4,3 +4,4 @@ quickactivate
 *.swp
 _tifffile.so
 *.pyc
+.DS_STORE

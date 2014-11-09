@@ -24,6 +24,7 @@ scikit-image==0.10.1
 scipy==0.14.0
 six==1.8.0
 stevedore==1.1.0
+tifffile==0.3.3
 tornado==4.0.2
 virtualenv-clone==0.2.5
 virtualenvwrapper==4.3.1
